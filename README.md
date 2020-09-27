@@ -6,7 +6,7 @@ Hard-code básicamente el Hard-code o código-duro es valor de datos o comportam
 
 Por ejemplo, una constante está codificada de forma rígida y permanece igual durante la ejecución del programa, como los atributos para realizar la conexión a base de datos, lo normal es que dichos atributos se declaren en las misma clase o en el mismo archivo, lo recomendable es declarar todos estos en un archivo externo como un xml, json, o config y extraer los atributos de dicho archivo.
 
-
+![Image](https://github.com/BrunoBeltreGuzman/ConnectionDesdeArchivoExterno/blob/master/FileScreenshots.png)
 
 # Aquí realizo una conexión a sql server desde el lenguaje de programación Java
 En Java se utiliza la clase Properties la cual permite manejar el conjunto de propiedades de un programa, siendo estas persistentes.
