@@ -18,4 +18,4 @@ Ejemplo:
 
 # configuracion. properties.xml 
 
-Para acceder a los atributos desde java se utiliza un objeto de tipo Properties para acceder a los atributos con el método getProperty(String key)
+Para acceder a los atributos desde java se utiliza un objeto de tipo Properties para acceder a los atributos con el método getProperty(String key) 
